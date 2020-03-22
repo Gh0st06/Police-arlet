@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "870437775002",
+    "firebase_url": "https://alertapp-bc867.firebaseio.com",
+    "project_id": "alertapp-bc867",
+    "storage_bucket": "alertapp-bc867.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870437775002:android:5645a190781808f98aa123",
+        "android_client_info": {
+          "package_name": "com.gh0st.gh0stapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870437775002-10bfg4pv5a17bb4l96hu3la1f9ja69t1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gh0st.gh0stapp",
+            "certificate_hash": "d2013b51955470dea67ad559fa9a94936e0420ba"
+          }
+        },
+        {
+          "client_id": "870437775002-maaii4s3c1tub514dn5ithcpkk3ug7nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAStW9YdWpg5mFTPDLOxtf-Z94aHaKp21M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870437775002-maaii4s3c1tub514dn5ithcpkk3ug7nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
